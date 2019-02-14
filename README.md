@@ -10,4 +10,4 @@ This page contains the completed weekly assignments of the popular MOOC, [HTML, 
 
 ### Contact
 
-Having trouble with Pages? Please send me an e-mail at apurbasaha398@gmail.com with your issues and I’ll help you sort it out.
+Having trouble with Pages? Please send me an e-mail at <apurbasaha398@gmail.com> with your issues and I’ll help you sort it out.
