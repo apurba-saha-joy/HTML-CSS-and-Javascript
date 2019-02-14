@@ -5,7 +5,7 @@ This page contains the completed weekly assignments of the popular MOOC, [HTML, 
 ### Assignments
 
 <ul>
-  <li><a href="../assignments/assignment-2/index.html" target="_blank_"><strong>Assignment 1</strong></a></li>
+  <li><a href="https://github.com/apurba-saha-joy/HTML-CSS-and-Javascript/blob/gh-pages/assignments/assignment-2/" target="_blank"><strong>Assignment 1</strong></a></li>
 </ul>
 
 ### Contact
