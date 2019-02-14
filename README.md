@@ -5,7 +5,7 @@ This page contains the completed weekly assignments of the popular MOOC, [HTML, 
 ### Assignments
 
 <ul>
-  <li><strong>Assignment 1</strong></li>
+  <li><a href="../assignments/assignment-2/index.html" target="_blank_"><strong>Assignment 1</strong></a></li>
 </ul>
 
 ### Contact
